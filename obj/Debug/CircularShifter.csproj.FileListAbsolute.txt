@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\CircularShifter\bin\Debug\CircularShifter.exe.config
+C:\Users\HP\source\repos\CircularShifter\bin\Debug\CircularShifter.exe
+C:\Users\HP\source\repos\CircularShifter\bin\Debug\CircularShifter.pdb
+C:\Users\HP\source\repos\CircularShifter\obj\Debug\CircularShifter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CircularShifter\obj\Debug\CircularShifter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CircularShifter\obj\Debug\CircularShifter.exe
+C:\Users\HP\source\repos\CircularShifter\obj\Debug\CircularShifter.pdb
